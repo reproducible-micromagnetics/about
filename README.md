@@ -30,6 +30,8 @@ About Reproducible Micromagnetics - start reading here
 
 - [David Cortes et al, Proposal for a micromagnetic standard problem for materials with Dzyaloshinskii-Moriya interaction, New Journal of Physics 20, 113015 (2018)](https://github.com/fangohr/paper-supplement-standard-problem-dmi)
 
+- [Ryan Alexander Pepper et al, Skyrmion states in thin confined polygonal nanostructures, Journal of Applied Physics 123, 093903 (2018)](https://doi.org/10.5281/zenodo.1066791)
+
 ## 2019
 
 - [David Cortes et al, Nano-scale magnetic skyrmions and target states in confined geometries, Physical Review B 99, 214408 (2019)](https://github.com/davidcortesortuno/paper-2019_nanoscale_skyrmions_target_states_confined_geometries)
