@@ -40,5 +40,7 @@ About Reproducible Micromagnetics - start reading here
 
 - [Marijan Beg et al, Stable and manipulable Bloch point, Scientific Reports 9, 7959 (2019)](https://github.com/reproducible-micromagnetics/2019-stable-and-manipulable-bloch-point) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/reproducible-micromagnetics/2019-stable-and-manipulable-bloch-point/master?filepath=index.ipynb)
 
+- [James C. Loudon et al, Do Images of Biskyrmions Show Type‐II Bubbles?, Advanced Materials 31, 1806598 (2019)](https://github.com/davidcortesortuno/paper_biskyrmions_bubbles)
+
 
 
